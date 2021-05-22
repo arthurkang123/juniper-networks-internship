@@ -1,2 +1,4 @@
-# juniper-networks-internship
-Juniper Networks Internship Work
+# Juniper Networks Internship
+
+- Juniper Networks Internship Work
+- Final Poster presented to the leadership and to all engineers
